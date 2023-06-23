@@ -1,0 +1,32 @@
+{
+    "name":"Diego",
+    "description": "Experiencia de Diego",
+    "introduction":"Soy un Ingeniero Fullstack",
+    "contact":{
+        "email":"dl.obregon@protonmail.com",
+        "phone":"+502 30436458"
+    },
+    "experience": [
+        {
+            "company":"PayPal Inc.",
+            "dates":{
+                "start":"",
+                "end":"",
+                "stillWorking":false
+            }, 
+            "job-description":"", 
+            "tools": ["git", "typeScript"]
+        }
+    ], 
+    "education": [
+        {
+            "college": "Universidad de San Carlos de Guatemala",
+            "degree": "Science and Systems Engineer", 
+            "Start date":"", 
+            "Finish Date":"", 
+            "url":""
+        }
+    ], 
+    "skills" :[],
+    "tools":[]
+}
